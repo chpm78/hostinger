@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first blog article</title>
+      <link>/posts/my-first-blog-article/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/my-first-blog-article/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve always wanted to have a blog.&lt;/p&gt;&#xA;&lt;p&gt;I even started one a few years ago but it took too much time to write articles.&lt;/p&gt;&#xA;&lt;p&gt;I make many many things (actually&amp;hellip;. too many) and I never find time to write about them.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m an electronic engineer but in the years I developed a lot of different passions:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Digital electronics (mainly firmware programming)&lt;/li&gt;&#xA;&lt;li&gt;Informatics&lt;/li&gt;&#xA;&lt;li&gt;Domotics (I&amp;rsquo;m a huge fan of &lt;a href=&#34;https://www.home-assistant.io&#34; target=&#34;_blank&#34;&gt;Home Assistant&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Woodworking&lt;/li&gt;&#xA;&lt;li&gt;Building things in general, from small wooden gadgets to wooden houses for kids&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;A few days ago I&amp;rsquo;ve seen this &lt;a href=&#34;https://www.youtube.com/watch?v=dnE7c0ELEH8&#34; target=&#34;_blank&#34;&gt;video&lt;/a&gt; from NetworkChuck and it gave me a new boost. It&amp;rsquo;s both simple and complicated enough for me!!!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
