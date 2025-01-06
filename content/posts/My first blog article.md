@@ -22,7 +22,7 @@ I'm an electronic engineer but in the years I developed a lot of different passi
 A few days ago I've seen this [video](https://www.youtube.com/watch?v=dnE7c0ELEH8) from NetworkChuck and it gave me a new boost. It's both simple and complicated enough for me!!!
 
 First try, I already get an error.... I would have wanted to use this beatiful Theme, [Blowfish](https://themes.gohugo.io/themes/blowfish/) but it gives me some incompatibility issues... I'll try again later!!
-![[Pasted image 20250105210655.png]]
+!![Image Description](/images/Pasted%20image%2020250105210655.png)
 
 For now I'll just use [Poison](https://themes.gohugo.io/themes/poison/) as theme:
-![[Pasted image 20250105210816.png]]
+!![Image Description](/images/Pasted%20image%2020250105210816.png)
